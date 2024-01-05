@@ -1,0 +1,12 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÚt8€ºÓ¿Í1
+K
+java:S1940!")Use the opposite operator ("!=") instead.(­šÿòûÿÿÿÿ8ÃºÓ¿Í1
+L	java:S1063"+Replace this use of System.out by a logger.(†‘‡ùÿÿÿÿ8ÈºÓ¿Í1
+L	java:S1068"+Replace this use of System.out by a logger.(–êÇ×úÿÿÿÿ8ÉºÓ¿Í1
+L	java:S106:"+Replace this use of System.out by a logger.(ÔĞ®¿úÿÿÿÿ8ÉºÓ¿Í1
+G	java:S106<"+Replace this use of System.out by a logger.(¾èüè8ÊºÓ¿Í1
+L	java:S106>"+Replace this use of System.out by a logger.(¸×üÿÿÿÿ8ÊºÓ¿Í1
+G	java:S106@"+Replace this use of System.out by a logger.(û³8ÊºÓ¿Í1
+F	java:S106B"+Replace this use of System.out by a logger.(´Ê¹F8²¶Ô¿Í1
+L	java:S106D"+Replace this use of System.out by a logger.(Ø¾×‹úÿÿÿÿ8¢ˆ×¿Í1
