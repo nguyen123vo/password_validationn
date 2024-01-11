@@ -91,7 +91,7 @@ public class randomNumber {
                 checking();
                 checkYesNo = true;
             } else if (yesNo.equalsIgnoreCase("No")) {
-                System.out.println("Thanks for your playing!");
+                System.out.println("Thanks for playing!");
                 checkYesNo = true;
             } else {
                 System.out.println("Your answer has to be Yes or No");
